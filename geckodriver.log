@@ -70,3 +70,9 @@ console.warn: "Error while detaching the thread front: 'detach' request packet t
 1563374919066	Marionette	WARN	TLS certificate errors will be ignored for this session
 JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
 1563374931588	Marionette	INFO	Stopped listening on port 34249
+1599445754283	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "-marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile.pqegh2ODztP6"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1599445776604	Marionette	INFO	Listening on port 38717
+1599445776684	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://inventwithpython.com/js/bootstrap.min.js, line 7: Error: Bootstrap tooltips require Tether (http://tether.io/)
+1599445840582	Marionette	INFO	Stopped listening on port 38717
